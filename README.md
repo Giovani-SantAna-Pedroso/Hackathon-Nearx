@@ -8,6 +8,8 @@ Repositorio criado para o Hackathon da Nearx com o objetivo de:
 
 -- TODO descrever como rodar o projeto
 
+## Dependencias
+
 # Criadores
 
 1. Fernando Barbosa - [Github](https://github.com/cyraxtrade) [LinkedIn](#)
